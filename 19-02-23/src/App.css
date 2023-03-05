@@ -1,0 +1,25 @@
+.heading{
+  text-align: center;
+  color: rgb(89, 106, 255);
+  font-size: 3rem;
+  position: fixed;
+  background-color: white;
+  z-index: 1;
+  width: 100vw;
+  top: 0;
+  margin: 0;
+  padding: 0.5rem 0;
+}
+
+.app{
+  display: flex;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 110px;
+}
+
+/* .card-container:hover{
+  height: 21rem;
+  width: 21rem;
+} */

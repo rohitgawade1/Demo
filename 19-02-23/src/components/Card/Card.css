@@ -1,0 +1,28 @@
+.card-container{
+    height: 20rem;
+    width: 20rem;
+    background-color: rgb(168, 184, 255);
+    /* text-align: center; */
+    display: flex;
+    justify-content: center;
+    position: relative;
+    border-radius: 8px;
+    color: #343d48;
+    margin-bottom: 2rem;
+}
+
+.card-container img{
+    height: 15rem;
+    width: 15rem;
+    /* object-fit: contain; */
+    position: absolute;
+    top: -15px;
+}
+
+.project-name-container{
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    margin-bottom: 1rem;
+}
+
